@@ -1,0 +1,6 @@
+git init= inicias un repositorio local
+git status= ves el status actual del repositorio
+git add "nombre del archivo"= agregas archivos nuevos al repositorio
+git add .= agregas todos los archivo que faltan agregar al repositorio
+git commit -m "comentario" = crea un comentario que ayuda a entender el nuevo cambio que se realizo 
+git push= sube todo al git hub
